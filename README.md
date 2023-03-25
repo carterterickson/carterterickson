@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any data science projects, particularly dealing with sports.
 - 📫 My email is carterterickson@gmail.com, please reach out with any questions!
 
- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/carterterickson"
+[[params.social]]
+ icon = "linkedin"
+ icon_pack = "fa"
+ link = "//github.com/carterterickson
